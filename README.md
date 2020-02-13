@@ -1,0 +1,3 @@
+# viauco-static
+
+USE STATIC IMAGES LIKE AN CDN
